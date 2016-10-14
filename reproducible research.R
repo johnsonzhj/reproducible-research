@@ -1,5 +1,7 @@
 ## ----setup, include=FALSE------------------------------------------------
-library(knitr);library(xtable);library(foreign)
+library(knitr)
+library(xtable)
+library(foreign)
 options(width=80)
 opts_chunk$set(comment = "", warning = FALSE, message = FALSE, tidy = TRUE, size="small")
 ##knitr::opts_chunk$set(results='asis')
